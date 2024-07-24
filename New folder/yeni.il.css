@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(174, 150, 218);
+    color: rgb(28, 36, 118);
+}
+
+h2 {
+    text-align: center;
+    font-size: larger;
+    text-decoration: underline;
+    font-size: 30px;
+    font-weight: 500;
+    font-style: italic
+}
+
+p {
+    font-size: larger;
+    text-decoration: underline;
+    font-style: italic;
+}

@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.qruplar {
+
+    width: 1650px;
+    height: 800px;
+    background-color: rgb(253, 246, 251);
+    margin: 40px 20px;
+    display: flex;
+    gap: 40px;
+    flex-wrap: wrap;
+    padding: 20px;
+    justify-content: center;
+}
+
+.qrup {
+    border: 1px solid rgb(54, 54, 54);
+    border-radius: 10px;
+    width: 350px;
+    padding: 20px;
+    margin: 10px;
+    background-color: white;
+
+}
+
+h2 {
+    color: rgb(12, 12, 148);
+    text-align: left;
+}
+
+p {
+    color: rgb(97, 95, 95);
+    text-align: justify;
+    line-height: 20px;
+    padding: 10px;
+}

@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    background-color: rgb(128, 19, 128);
+    color: white;
+    text-align: center;
+    font-size: 80px;
+
+}
+
+.qruplar {
+    border: 20px solid white;
+    gap: 30px;
+    display: flex;
+    margin: 30px 20px;
+    justify-content: space-around;
+
+}
+
+.qrup {
+    background-color: aqua;
+    color: black;
+    padding: 20px;
+    width: 600px;
+    height: 700px;
+
+}
+
+.h2 {
+    text-align: left;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: xx-large;
+}
+
+p {
+    font-size: x-large;
+    line: height 30px;
+    text-align: justify;
+
+}
